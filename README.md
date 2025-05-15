@@ -17,7 +17,7 @@ Resolved an issue with incorrect data rendering on mobile devices.
 Fixed a bug where the search feature did not display results properly.
 Author: zengzen
 
-Version 1.2.1 - 2023-09-15
+Version 1.2.1 - 2025-05-10
 New Features:
 Introduced a real-time notification system.
 Added support for dark mode customization.
@@ -41,7 +41,7 @@ Fixed an issue with recurring tasks not saving correctly.
 Resolved a bug related to user permissions.
 Author: zengzen
 
-Version 1.0.0 - 2025-05-01
+Version 1.0.0 - 2025-04-27
 Initial Release:
 Core functionality implemented, including user authentication, data management, and basic UI.
 Added support for cross-platform compatibility.
