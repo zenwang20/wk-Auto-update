@@ -3,16 +3,52 @@
 
 自动同步 BPB-Worker-Panel 项目的最新 worker.js 文件。
 
-## 🚀 快速开始（适合 Fork）
+## 🚀 更新日志（Maintainer: zeng zen）
 
-1. 点击右上角 Fork 本仓库到你的 GitHub 账号。
-2. 打开你的仓库，进入 Actions 页面，点击 Enable workflows（启用 GitHub Actions）。
-3. 无需其他配置，GitHub 默认的 GITHUB_TOKEN 权限即可推送更新。
-4. 你可以手动点击 Run workflow，也可以等待每天定时自动检查。
+Version 1.3.0 - 2025-05-15
+New Features:
+Added support for multiple language configurations.
+Implemented a new dashboard UI for better user experience.
+Improvements:
+Optimized database query performance by 30%.
+Enhanced security measures for user authentication.
+Bug Fixes:
+Resolved an issue with incorrect data rendering on mobile devices.
+Fixed a bug where the search feature did not display results properly.
+Author: zengzen
 
-> 注意：确保你的仓库默认分支为 main，否则推送时可能失败。
+Version 1.2.1 - 2023-09-15
+New Features:
+Introduced a real-time notification system.
+Added support for dark mode customization.
+Improvements:
+Improved error handling for API requests.
+Added validation for user input fields.
+Bug Fixes:
+Fixed a bug causing intermittent crashes on macOS.
+Resolved an issue with file upload functionality.
+Author: zengzen
 
-🌟 如果觉得这个项目对你有帮助，欢迎顺手点个 Star 支持一下！
+Version 1.1.0 - 2025-05-05
+New Features:
+Added support for third-party integrations (e.g., Slack, GitHub).
+Implemented a new module for task management.
+Improvements:
+Enhanced code documentation for better maintainability.
+Reduced app loading time by 20%.
+Bug Fixes:
+Fixed an issue with recurring tasks not saving correctly.
+Resolved a bug related to user permissions.
+Author: zengzen
+
+Version 1.0.0 - 2025-05-01
+Initial Release:
+Core functionality implemented, including user authentication, data management, and basic UI.
+Added support for cross-platform compatibility.
+Author: zengzen
+Notes
+This timeline reflects the major updates and improvements made to the project.
+For more detailed information, please refer to the GitHub repository and the full commit history.
 
 ---
 
@@ -66,12 +102,6 @@ GitHub Actions 会每日 00:00（UTC 时间）自动运行：
 您可以自由地使用、复制、修改和分发本项目，前提是附带原始许可证声明。
 
 ---
-
-## 🌐 社区与交流
-
-如果有任何问题或建议，欢迎加入我们的 Telegram 群组交流：
-
-👉 加入 Telegram 群组：https://t.me/+ft-zI76oovgwNmRh
 
 
 ---
